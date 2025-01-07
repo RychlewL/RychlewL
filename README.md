@@ -1,16 +1,25 @@
-## Hi there 👋
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=RychlewL.RychlewL&left_text=profile%20views)
+![epitech year](https://img.shields.io/badge/epitech_studies-3_%2F_5_(years)-darkgreen)
 
-<!--
-**RychlewL/RychlewL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<br/>
+<h1>Hi There 👋 -  I'm Lucas Rychlewski</h1>
+<br/>
 
-Here are some ideas to get you started:
+a passionate Software Engineering student at Epitech Paris
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+with hands-on experience in embedded systems, AI projects, and algorithmic problem-solving.
+
+🚀 Let's build something amazing together!
+
+<br/>
+<h2>OS/Tools I use often:</h2>
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,blender,docker,git,github,vscode,cmake,md" />
+
+<br/>
+<h2>Programming languages/frameworks I am familiar with:</h2>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,css,html,js,nodejs,bash,haskell,regex" />
+
+<br/>
+</div>
+
