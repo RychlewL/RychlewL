@@ -1,5 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=RychlewL.RychlewL&left_text=profile%20views)
-![epitech year](https://img.shields.io/badge/epitech_studies-3_%2F_5_(years)-darkgreen)
+![epitech year](https://img.shields.io/badge/epitech_studies-4_%2F_5_(years)-darkgreen)
 
 <div align="center">
 <br/>
